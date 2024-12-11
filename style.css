@@ -111,13 +111,13 @@ textarea {
 .progress-bar-shell {
     width: 30px; /* Narrow width for vertical bar */
     height: 300px; /* Longer height for vertical bar */
-    background-color: #e0e0e0;
+    background-color: black;
     border-radius: 15px;
     overflow: hidden;
     position: relative;
     width: 20%;
     height: 100%;
-    background-color: #f3f3f3;
+    background-color: black;
     border-radius: 100px;
     overflow: hidden;
     position: relative;
